@@ -1,0 +1,21 @@
+[
+  {
+    "rel_url" : "Sudipta069/AzureProjectCI-CD/refs/heads/main/Resource/athletes.csv",
+    "p_folder" : "athletes",
+    "p_file"  : "athletes.parquet"
+  },
+  {
+   "rel_url" : "Sudipta069/AzureProjectCI-CD/refs/heads/main/Resource/coaches.csv",
+    "p_folder" : "coaches",
+    "p_file"  : "coaches.parquet"
+
+  },
+   {
+   "rel_url" : "Sudipta069/AzureProjectCI-CD/refs/heads/main/Resource/events.csv",
+    "p_folder" : "events",
+    "p_file"  : "events.parquet"
+
+  }
+
+
+]
